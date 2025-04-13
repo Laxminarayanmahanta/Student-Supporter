@@ -1,0 +1,22 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+  <style>
+    body {
+      font-family: Arial;
+      background-color: #f4f4f4;
+      text-align: center;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Website!</h1>
+  <p>This is my first web page. 🎉</p>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfmpaEDwVnmkVXSIZNBAZ6t2ssIzvleZg4yBdBXMp55kE6fbg/viewform?usp=header" target="_blank">
+  Test - 1
+</a>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
